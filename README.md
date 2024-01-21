@@ -43,6 +43,9 @@ mytestproject #git remote add origin https://github.com/TriveniReddyB/pytestauto
 6. push changes from local repo branch to remote repo branch.
 mytestproject# git push --set-upstream origin main
 
+* added contributor
+## Done
+
 7.check tracked/untracked files
 mytestproject# git status
 mytestproject# git add .
